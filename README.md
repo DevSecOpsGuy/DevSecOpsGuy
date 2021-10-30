@@ -1,12 +1,12 @@
 ### Hi there 👋
-- 📫 How to reach me: Email me at foyzulkarim@gmail.com 🙂
+- 📫 How to reach me: Email me at DevSecOpsGuy@gmail.com 🙂
 
-[![Foyzul's GitHub stats](https://github-readme-stats.vercel.app/api?username=foyzulkarim)](https://github.com/foyzulkarim/github-readme-stats)
+[![Foyzul's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSecOpsGuy)](https://github.com/DevSecOpsGuy/github-readme-stats)
 
-![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=foyzulkarim&theme=blue-green)
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSecOpsGuy&theme=blue-green)
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/foyzulkarim/foyzulkarim)](https://github.com/foyzulkarim)
+[![Visits Badge](https://badges.pufler.dev/visits/DevSecOpsGuy/DevSecOpsGuy)](https://github.com/DevSecOpsGuy)
 <!--
 **foyzulkarim/foyzulkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
