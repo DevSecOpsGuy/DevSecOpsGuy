@@ -1,6 +1,6 @@
 ### Hi there, I'm [Showeb Arif Siddiquie](https://youtube.com/DevSecOpsGuy) 👋
 
-![twitter-follower](https://img.shields.io/twitter/follow/showebarif?style=social) ![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtyzNT9U_dUyXqCvHveDshQ-ktQ?label=YouTube%20Subscribers&style=social) <img src="https://komarev.com/ghpvc/?username=seema1711" alt="seema1711"/> </p> 
+![twitter-follower](https://img.shields.io/twitter/follow/showebarif?style=social) ![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtyzNT9U_dUyXqCvHveDshQ?label=YouTube%20Subscribers&style=social) <img src="https://komarev.com/ghpvc/?username=seema1711" alt="seema1711"/> </p> 
 
 ## I'm a DevOps Admin, Mentor, Open Sourcerer, Content Creator
 
