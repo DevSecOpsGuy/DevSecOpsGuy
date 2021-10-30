@@ -31,6 +31,7 @@
 - [Red Hat Certified System Administrator](https://rhtapps.redhat.com/verify?certId=170-196-935)
 - [Red Hat Certified Engineer](https://rhtapps.redhat.com/verify?certId=170-196-935)
 - [Red Hat Certified Specialist in Ansible Automation](https://rhtapps.redhat.com/verify?certId=170-196-935)
+- [Red Hat Certified Specialist in Virtualization](https://rhtapps.redhat.com/verify?certId=170-196-935)
 - [GitLab Certified Associate](https://badgr.com/public/assertions/Ibw3wCwfStW-VqvKmtDxNg)
 
 ---
