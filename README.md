@@ -66,7 +66,7 @@
 
 ### 💖Like my work? 
 
-[![Showeb Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSecOpsGuy)](https://github.com/DevSecOpsGuy/github-readme-stats)
+[![Showeb Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSecOpsGuy)]
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSecOpsGuy&theme=blue-green)
 
