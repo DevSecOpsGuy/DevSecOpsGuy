@@ -12,7 +12,7 @@
 
 ### ✨Connect with me:
 
-[YouTube](https://youtube.com/UCtyzNT9U_dUyXqCvHveDshQ) | [Twitter](https://twitter.com/) | [LinkedIn](https://linkedin.com/in/)
+[YouTube](https://www.youtube.com/channel/UCtyzNT9U_dUyXqCvHveDshQ) | [Twitter](https://twitter.com/showebarif) | [LinkedIn](www.linkedin.com/in/showebarif)
 
 ---
 
