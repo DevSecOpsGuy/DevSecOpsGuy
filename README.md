@@ -4,11 +4,11 @@
 
 ## I'm a DevOps Admin, Mentor, Open Sourcerer, Content Creator
 
-- 🔭 I’m currently working on a [Open Source Series on YouTube](https://www.youtube.com/watch?v=wN9v0z3No24&list=PLhrUS-gSH3xBg9HPUU3z7WcKAgyYRog8H)!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on a [Open Source Tech Events](https://www.youtube.com/watch?v=a7m6fDGGgSI)!
+- 🌱 I’m currently learning Linux Troubleshooting, Container Technologies and Cloud Infrastructure.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to listen to music and watch movies/series.
+- 💬 Ask me about Linux, Shell Scripting, SAN, NAS, DAS, Nagios, Ansible and AWS Cloud
+- 📫 How to reach me: showeb.arif@gmail.com
 
 ### ✨Connect with me:
 
